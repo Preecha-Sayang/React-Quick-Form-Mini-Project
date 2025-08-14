@@ -9,7 +9,7 @@ import Pform from "./component/Productform";
 function App() {
   return (
     <>
-      <div className="flex flex-col justify-center items-center">
+      <div className="min-h-screen flex justify-center items-center bg-pink-200">
       <Pform/>
       </div>
     </>
